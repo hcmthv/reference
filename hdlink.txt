@@ -1,0 +1,17 @@
+https://www.devglan.com/online-tools/rsa-encryption-decryption
+---- collect
+http://www-cs-students.stanford.edu/~tjw/jsbn/
+----- link test RSA
+https://digitalbazaar.github.io/forge/demos/rsa.html
+
+https://stackoverflow.com/questions/14309894/javascript-rsa-decryption-using-private-key
+https://github.com/travist/jsencrypt
+----- Diagram aes
+https://jamesrwilliams.ca/posts/javascript-encryption-with-rsa-and-aes
+
+https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.rsapkcs1keyexchangedeformatter?view=netcore-3.1
+
+http://titan.csit.rmit.edu.au/~e23700/Lab8/demo1/test_rsa.html
+
+-------- coding for device c# ---------
+https://www.codegrepper.com/code-examples/csharp/camera+color+unity
